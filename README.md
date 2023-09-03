@@ -1,5 +1,10 @@
 # BingX-Flask
 Compras automaticas TradingView
+Necesario:
+pip install pyngrok Flask requests
+
+Ejecucion:
+python bot.py
 
 Para utilizar esta aplicación, debes configurar las constantes como API_KEY, API_SECRET, CHAT_ID , TOKEN
 
